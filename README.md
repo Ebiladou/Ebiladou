@@ -2,18 +2,18 @@
 <h3 align="center">A frontend developer and technical writer from Nigeria.</h3>
 
 
-- 🌱 I’m currently learning **Next.js, Express.js, and Dart.**
+- 🌱 I’m currently learning **Next.js, Express.js, and DSA.**
 
 - 📝 Find my articles on [https://ladou.hashnode.dev/](https://ladou.hashnode.dev/)
 
 - 💬 Ask me about **Nothing, fr.**
 
-- 📫 How to reach me **oyinebiladouomemeu@gmail.com**
+- 📫 Need to reach me? Try **oyinebiladouomemeu@gmail.com**
 
-- ⚡ Fun fact **My GitHub is embarassing.**
+- ⚡ Fun fact: **My GitHub is embarassing.**
   
 - 😄 Pronouns are **Her/She**
-### Blogs posts
+### Blog posts
 - [Routing in React Applications](https://ladou.hashnode.dev/implementing-routing-in-react-applications-using-react-router)
   
 - [State and Props in React components](https://ladou.hashnode.dev/state-and-props-in-react-components)
