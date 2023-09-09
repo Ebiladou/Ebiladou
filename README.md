@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/oyinebiladou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oyinebiladou" height="30" width="40" /></a>
 <a href="https://twitter.com/oyinebiladou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyinebiladou" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oyinebiladou omemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyinebiladou omemu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oyinebiladou-omemu-a331b9223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyinebiladou omemu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ladou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ladou" height="30" width="40" /></a>
 </p>
 
