@@ -15,7 +15,7 @@
   
 - 😄 Pronouns are **Her/She**
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+[Routing in React Applications](https://ladou.hashnode.dev/implementing-routing-in-react-applications-using-react-router)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
