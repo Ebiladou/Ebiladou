@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ladou.</h1>
 <h3 align="center">A frontend developer and technical writer from Nigeria.</h3>
 
-<p align="left"> <a href="https://twitter.com/oyinebiladou" target="blank"><img src="https://img.shields.io/twitter/follow/oyinebiladou?logo=twitter&style=for-the-badge" alt="oyinebiladou" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Express.js, and Dart.**
 
