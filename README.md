@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nothing, fr.**
 
-- 📫 Need to reach me? Try **oyinebiladouomemeu@gmail.com**
+- 📫 Need to reach me? Try **oyinebiladouomemu@gmail.com**
 
 - ⚡ Fun fact: **My GitHub is embarassing.**
   
