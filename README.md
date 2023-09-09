@@ -7,11 +7,11 @@
 
 - 📝 Find my articles on [https://ladou.hashnode.dev/](https://ladou.hashnode.dev/)
 
-- 💬 Ask me about **HTML lol.**
+- 💬 Ask me about **Nothing, fr.**
 
 - 📫 How to reach me **oyinebiladouomemeu@gmail.com**
 
-- ⚡ Fun fact **I have a thing for melancholy.**
+- ⚡ Fun fact **My GitHub is embarassing.**
   
 - 😄 Pronouns are **Her/She**
 ### Blogs posts
