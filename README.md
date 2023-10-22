@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer and technical writer from Nigeria.</h3>
 
 
-- 🌱 I’m currently learning **Next.js, Express.js, and DSA.**
+- 🌱 I’m currently learning **Node.js and DSA.**
 
 - 📝 Find my articles on [https://ladou.hashnode.dev/](https://ladou.hashnode.dev/)
 
