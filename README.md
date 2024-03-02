@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ladou.</h1>
+<h1 align="center">Hi, 👋 I'm Ladou.</h1>
 <h3 align="center">A frontend developer and technical writer from Nigeria.</h3>
 
 
-- 🌱 I’m currently learning **Java and just improving on frontend generally.**
+- 🌱 I’m currently learning **Python and just improving on frontend generally.**
 
 - 📝 Find my articles on [https://ladou.hashnode.dev/](https://ladou.hashnode.dev/)
 
